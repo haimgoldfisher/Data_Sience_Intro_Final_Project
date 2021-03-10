@@ -6,13 +6,13 @@ This
 
 ---------
 
-### Part I : Probability
+### Part I : Probability, Bayes' Theorem
 
 prob problems
 
 ---------
 
-### Part II : Programming
+### Part II : Programming Exercises
 
 binary, dataset
 
