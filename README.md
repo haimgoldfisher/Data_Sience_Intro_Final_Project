@@ -12,7 +12,7 @@ prob problems
 
 ---------
 
-### Part II : Programming
+### Part II : Programming Exercises
 
 binary, dataset
 
