@@ -6,7 +6,7 @@ This
 
 ---------
 
-### Part I : Probability
+### Part I : Probability, Bayes' Theorem
 
 prob problems
 
