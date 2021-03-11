@@ -8,13 +8,15 @@ This
 
 ### Part I : Probability, Bayes' Theorem
 
-prob problems
+Answers to questions on various topics in probability.
+Including conditional probability, Bayes' theorem and expected value.
 
 ---------
 
 ### Part II : Programming Exercises
 
-binary, dataset
+Questions that focus on programming, such as converting binary numbers.
+Also, a variety of questions about the dataset 'cast': panads library, ploting, groupby and more.
 
 ---------
 
