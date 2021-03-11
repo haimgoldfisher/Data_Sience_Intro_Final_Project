@@ -31,3 +31,5 @@ If you're not a color blind, you'll probably think this model is a kind of silly
 Familiar with the well-known phrase "Diamonds are forever"? Did you ever hear Marilyn Monroe's song "Diamonds are a girl's best friend"? So much has been written and said about this shiny crystal. But there is one thing that everyone agrees on, people just love diamonds. Have you ever wondered how the price of a diamond can be estimated? In the above model we will try to predict the price of a diamond based on its data. You may not need to be such a great expert to understand how much it is worth paying for a diamond ring.
 
 ---------
+
+@ Haim Goldfisher
