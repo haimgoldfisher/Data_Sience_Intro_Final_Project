@@ -1,6 +1,6 @@
 # Data Sience Intro Course - Final Project
 
-#### by Haim Goldfisher
+### by Haim Goldfisher
 
 ---------
 
