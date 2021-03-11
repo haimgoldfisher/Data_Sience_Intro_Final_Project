@@ -1,7 +1,5 @@
 # Data Sience Intro Course - Final Project
 
-### by Haim Goldfisher
-
 ---------
 
 ### Part I : Probability, Bayes' Theorem
