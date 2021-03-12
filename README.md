@@ -11,7 +11,7 @@ Including conditional probability, Bayes' theorem and expected value.
 
 ### Part II : Programming Exercises
 
-Questions that focus on programming, such as converting binary numbers.
+Questions that focus on programming, such as converting decimal numbers.
 Also, a variety of questions about the dataset 'cast': panads library, ploting, groupby and more.
 
 ---------
